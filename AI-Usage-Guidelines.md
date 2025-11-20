@@ -1,4 +1,5 @@
 ## Research & Learn
+
 ### What AI tools are typically used for your role?
 *Chatgpt*
 
